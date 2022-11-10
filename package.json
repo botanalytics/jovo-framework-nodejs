@@ -38,6 +38,6 @@
     "chai-as-promised": "^7.1.1",
     "eslint": "^3.19.0",
     "eslint-config-google": "^0.8.0",
-    "mocha": "^5.1.0"
+    "mocha": "^10.1.0"
   }
 }
